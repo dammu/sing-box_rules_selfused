@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "stun.miwifi.com",
+        "stun.syncthing.net",
+        "stun.hot-chilli.net",
+        "stun.fitauto.ru"
+      ]
+    }
+  ]
+}
