@@ -3,9 +3,10 @@
   "rules": [
     {
       "domain": ["this.is.an.example", "ifconfig.me"],
-      "domain_suffix": ["arturia.com", "arturia.net", "opnsense.org","4d4y.com"],
+      "domain_suffix": ["arturia.com", "arturia.net", "opnsense.org","4d4y.com","rarecloud.io"],
       "ip_cidr": ["1.1.1.1/32", "8.8.8.8/32"]
     }
   ]
 }
+
 
